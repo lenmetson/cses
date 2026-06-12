@@ -33,6 +33,7 @@
 *.out
 *.synctex.gz
 *.fdb_latexmk
+*.zip
 
 *.json
 *.geojson
