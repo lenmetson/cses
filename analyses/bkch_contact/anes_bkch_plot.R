@@ -282,7 +282,7 @@ p_stacked <- table3 |>
     ) +
     labs(
         title    = "**Party Contact in US Presidential Elections**",
-        subtitle = "Share contacted by each party, 1956–2024",
+        subtitle = "Share contacted by each party (weighted), 1956–2024",
         x = NULL, y = "Share Contacted",
         caption  = "**Data:** ANES Cumulative Data File 1956–2020; ANES 2024 Time Series"
     ) +
